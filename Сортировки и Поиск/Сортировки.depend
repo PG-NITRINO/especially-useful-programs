@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610744575 source:c:\Базовые алгоритмы&Сортировка\Сортировки\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+	"Sort.h"
+	"Search.h"
+
+1610741378 c:\Базовые алгоритмы&Сортировка\Сортировки\sort.h
+
+1610741451 c:\Базовые алгоритмы&Сортировка\Сортировки\search.h
+

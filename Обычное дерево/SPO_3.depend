@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1654260854 source:c:\users\Администратор.dnapc\desktop\СПО\Лаба 3\spo_3\main.cpp
+	<iostream>
+	"MyTree.h"
+
+1654260885 c:\users\Администратор.dnapc\desktop\СПО\Лаба 3\spo_3\mytree.h
+	<vector>
+	<stdarg.h>
+
+1654262524 source:c:\users\khabi\onedrive\Рабочий стол\programming\programs on c++\Особенно полезные программы\Обычное дерево\main.cpp
+	<iostream>
+	"MyTree.h"
+	"Timer.h"
+
+1654262256 c:\users\khabi\onedrive\Рабочий стол\programming\programs on c++\Особенно полезные программы\Обычное дерево\mytree.h
+	<vector>
+	<stdarg.h>
+
+1654262508 c:\users\khabi\onedrive\Рабочий стол\programming\programs on c++\Особенно полезные программы\Обычное дерево\timer.h
+	<chrono>
+	<random>
+	<ctime>
+

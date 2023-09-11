@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1649771177 source:c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1\spo_1\main.cpp
+	<iostream>
+
+1649948209 source:c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1_stack\main.cpp
+	<iostream>
+	"MyStack.h"
+	"MyVector.h"
+	"MyTimer.h"
+	<stack>
+	<vector>
+
+1649947332 c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1_stack\mystack.h
+
+1649939871 c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1_stack\mytimer.h
+	<chrono>
+	<random>
+	<ctime>
+
+1649948661 c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1_stack\myvector.h
+
+1650732207 source:c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1\main.cpp
+	<iostream>
+	"MyStack.h"
+	"MyQueue.h"
+	"MyVector.h"
+	"MyTimer.h"
+	<stack>
+	<queue>
+	<vector>
+
+1650722122 c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1\mystack.h
+
+1650722670 c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1\myqueue.h
+
+1650722670 c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1\myvector.h
+
+1649939871 c:\users\Администратор.dnapc\desktop\СПО\Лабораторная 1 Вариант 3\spo_1\mytimer.h
+	<chrono>
+	<random>
+	<ctime>
+

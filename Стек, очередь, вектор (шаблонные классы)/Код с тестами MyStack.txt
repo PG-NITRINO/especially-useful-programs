@@ -1,0 +1,46 @@
+{/*Stack<int> stc;
+	Stack<int> stca;
+    stc.push(0);
+    stc.push(1);
+	stc.push(2);
+	stc.push(3);
+	stc.push(4);
+	stc.push(5);
+	stc.push(6);
+
+	stca.push(2);
+	stca.push(3);
+	stca.push(4);
+	stca.push(5);
+
+	if (stc > stca)	{
+		std::cout << "stc more\n";
+	}
+	else std::cout << "stca more\n";
+
+	if (stc < stca) {
+		std::cout << "stc less\n";
+	}
+	else std::cout << "Stca less\n";
+
+	if (stc == stca) {
+		std::cout << "stc equ stca\n";
+	}
+	else std::cout << "stca not equ stca\n";
+
+	if (stc != stca) {
+		std::cout << "stc not equ stca\n";
+	}
+	else std::cout << "stca equ stca\n";
+
+	std::cout << "Peek stack = " << stc.peek() << "\n";
+
+	stc.remove_range(2,4);
+	stc.reverse();
+	std::cout << stc.pop() << "\n";
+	std::cout << stc.pop() << "\n";
+	std::cout << stc.pop() << "\n";
+	std::cout << stc.pop() << "\n";
+	std::cout << stc.pop() << "\n";
+	std::cout << stc.pop() << "\n";
+	std::cout << stc.pop();*/}

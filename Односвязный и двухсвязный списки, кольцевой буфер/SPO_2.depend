@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1653238399 source:c:\users\Администратор.dnapc\desktop\СПО\Лаба2\spo_2\main.cpp
+	<iostream>
+	"MySingleList.h"
+	"MyDoubleList.h"
+	"MyRing.h"
+	"MyTimer.h"
+	<forward_list>
+	<list>
+
+1653236862 c:\users\Администратор.dnapc\desktop\СПО\Лаба2\spo_2\mysinglelist.h
+
+1653236975 c:\users\Администратор.dnapc\desktop\СПО\Лаба2\spo_2\mydoublelist.h
+
+1652783374 c:\users\Администратор.dnapc\desktop\СПО\Лаба2\spo_2\mytimer.h
+	<chrono>
+	<random>
+	<ctime>
+
+1653238468 c:\users\Администратор.dnapc\desktop\СПО\Лаба2\spo_2\myring.h
+

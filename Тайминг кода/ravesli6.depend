@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1633289930 source:c:\_Изучаем С++\ravesli6\main.cpp
+	<iostream>
+	<cassert>
+	<chrono>
+	<Windows.h>
+	<windowsx.h>
+	<ctime>
+	<cmath>
+	<tchar.h>
+
+1633377316 source:c:\_Изучаем С++\ravesli6 Тайминг кода\main.cpp
+	<iostream>
+	<cassert>
+	<chrono>
+	<cmath>
+	<string>
+	<random>
+	<ctime>
+	<Windows.h>
+	<windowsx.h>
+	<ctime>
+	<cmath>
+	<tchar.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611676268 source:c:\cpp zadachi is turbo pascal\Функции времени\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+
